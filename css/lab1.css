@@ -1,0 +1,11 @@
+main { 
+    background-color: rgb(234, 248, 253);
+    width: 50%;
+    margin-left: 25%;
+    padding: 20px; 
+}
+
+.warning { 
+    color: red;
+    font-weight: bold;
+}

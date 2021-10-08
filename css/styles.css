@@ -1,0 +1,94 @@
+
+/* Number 3 */
+
+.one { 
+    color: red;
+}
+
+.two { 
+    color: orange;
+}
+
+.three { 
+    color: yellow; 
+}
+
+.four { 
+    color: green;
+}
+
+.five { 
+    color: blue; 
+}
+
+.six { 
+    color: indigo;
+}
+
+.seven { 
+    color: violet;
+}
+
+.eight { 
+    color: maroon;
+}
+
+.nine { 
+    color: teal;
+}
+
+.ten { 
+    color: pink;
+}
+
+/* Number 4 */
+
+.title, 
+.author { 
+    text-decoration: underline;
+}
+
+.adjective { 
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Number 5 */
+
+body { 
+    background-color: plum;
+}
+
+.envelope {
+    background-color: white;
+    border: 3px black solid;
+    height: 300px;
+    width: 700px;
+}
+
+/* Number 6 */
+
+.envelope { 
+    margin-top: 10px;
+}
+
+.envelope p { 
+    margin: 0;
+    padding: 0;
+}
+
+.sender { 
+    padding: 10px; 
+    height: 50%;
+}
+
+.receiver {    
+    text-align: center;
+}
+
+/* Number 8 & 9 */
+
+main { 
+    width: 75%;
+    margin: 20px; 
+}
